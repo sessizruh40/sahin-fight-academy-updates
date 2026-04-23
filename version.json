@@ -1,6 +1,5 @@
 {
   "latest_version": "2.1.0",
-  "notes": "Sorunlar Giderildi
-  Gelir Gider özelliği eklendi.",
+  "notes": "Gelir Gider Özelliği Eklendi, Açılmama Sorunu Giderildi.",
   "setup_url": "https://github.com/sessizruh40/sahin-fight-academy-updates/releases/download/v1.1.0/SahinFightAcademy_Setup.exe"
 }
